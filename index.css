@@ -18,6 +18,7 @@ body {
   background-color: var(--cor-fundo);
   margin: 0;
   border-bottom: 2px solid var(--detalhes);
+  margin-right:5px;
 }
 
 .logo img {
